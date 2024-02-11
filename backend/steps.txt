@@ -1,0 +1,11 @@
+1->npm init
+2->npm i express
+3->npm i mongoose
+4->create db.js
+5->import db.js in index.js
+6->npm i -d nodemon
+7->nodemon ./index.js
+8->index.js will be express server
+9->see express doc website
+
+
